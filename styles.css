@@ -1,0 +1,24 @@
+#head{
+    color: green;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1{
+    font-weight: 200;
+}
+
+li{
+    color: rgb(165, 80, 11);
+}
+#food{
+    text-align: center;
+    background-color: burlywood;
+    color: red;
+}
+
+.about{
+    text-align: center;
+    font-weight: 300;
+    color:blueviolet ;
+}
